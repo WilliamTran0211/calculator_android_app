@@ -4,5 +4,5 @@ Calculator Application on Android
 Description: 
 + Simple calculation.
 + Custom button.
-+ Using Balan Libs to calculate. Author by nguyenvanquan7826
++ Using [Balan Libs](https://github.com/nguyenvanquan7826/Balan) to calculate.
 
